@@ -5,4 +5,4 @@ this is used for git test
 
 modify the ssh-key in ~/.ssh/config, manage by configure different host.
 just a new line test for conflict
-
+fix for issue101
